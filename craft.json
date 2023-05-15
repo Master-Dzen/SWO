@@ -67,7 +67,6 @@
 			"id": "axe_wood",
 			"time": 5.0,
 			"count": 1,
-			"workbench": "workbench",
 			"group": "tool",
 			"res": [
 				{
@@ -112,7 +111,6 @@
 			"id": "pick_wood",
 			"time": 5.0,
 			"count": 1,
-			"workbench": "workbench",
 			"group": "tool",
 			"res": [
 				{
