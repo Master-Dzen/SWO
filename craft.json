@@ -1,0 +1,6537 @@
+﻿{
+	"items": [
+		{
+			"id": "wall_wood",
+			"time": 4.0,
+			"count": 1,
+			"tech": "b3",
+			"group": "build",
+			"res": [
+				{
+					"id": "wood",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "door_wood",
+			"time": 4.0,
+			"count": 1,
+			"tech": "b3",
+			"group": "build",
+			"res": [
+				{
+					"id": "wood",
+					"count": 8
+				}
+			]
+		},
+		{
+			"id": "floor_wood",
+			"time": 2.0,
+			"count": 1,
+			"tech": "b1",
+			"group": "build",
+			"res": [
+				{
+					"id": "wood",
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": "workbench",
+			"time": 10.0,
+			"count": 1,
+			"group": "equipment",
+			"res": [
+				{
+					"id": "wood",
+					"count": 10
+				}
+			]
+		},
+		{
+			"id": "club",
+			"time": 5.0,
+			"count": 1,
+			"group": "weapon",
+			"res": [
+				{
+					"id": "wood",
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": "axe_wood",
+			"time": 5.0,
+			"count": 1,
+			"workbench": "workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "wood",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "chest_wood",
+			"time": 8.0,
+			"count": 1,
+			"tech": "c1",
+			"workbench": "workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "wood",
+					"count": 10
+				}
+			]
+		},
+		{
+			"id": "bed",
+			"time": 8.0,
+			"count": 1,
+			"tech": "b2",
+			"workbench": "workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "wood",
+					"count": 20
+				},
+				{
+					"id": "leaf",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "pick_wood",
+			"time": 5.0,
+			"count": 1,
+			"workbench": "workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "wood",
+					"count": 6
+				}
+			]
+		},
+		{
+			"id": "furnace",
+			"time": 10.0,
+			"count": 1,
+			"tech": "e1",
+			"workbench": "workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "wood",
+					"count": 10
+				},
+				{
+					"id": "stone",
+					"count": 10
+				}
+			]
+		},
+		{
+			"id": "bow_wooden",
+			"time": 8.0,
+			"count": 1,
+			"tech": "wr1",
+			"workbench": "workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "wood",
+					"count": 10
+				},
+				{
+					"id": "iron_bar",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "arrow_bone",
+			"time": 5.0,
+			"count": 5,
+			"tech": "wr1",
+			"workbench": "workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "wood",
+					"count": 1
+				},
+				{
+					"id": "bone",
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": "spear",
+			"time": 5.0,
+			"count": 1,
+			"tech": "w1",
+			"workbench": "workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "wood",
+					"count": 10
+				},
+				{
+					"id": "bone",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "wooden_boat",
+			"time": 10.0,
+			"count": 1,
+			"tech": "bt1",
+			"workbench": "workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "wood",
+					"count": 40
+				},
+				{
+					"id": "iron_bar",
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": "crusher",
+			"time": 10.0,
+			"count": 1,
+			"tech": "e3",
+			"workbench": "workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "iron_bar",
+					"count": 10
+				},
+				{
+					"id": "copper_bar",
+					"count": 10
+				}
+			]
+		},
+		{
+			"id": "iron_coal_powder",
+			"time": 2.0,
+			"count": 1,
+			"tech": "e3",
+			"workbench": "workbench",
+			"group": "material",
+			"res": [
+				{
+					"id": "iron_powder",
+					"count": 1
+				},
+				{
+					"id": "coal_powder",
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": "powder",
+			"time": 2.0,
+			"count": 1,
+			"tech": "wr4",
+			"workbench": "workbench",
+			"group": "material",
+			"res": [
+				{
+					"id": "coal_powder",
+					"count": 1
+				},
+				{
+					"id": "nitrocalite_powder",
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": "iron_knife",
+			"time": 8.0,
+			"count": 1,
+			"tech": "w2",
+			"workbench": "workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "wood",
+					"count": 2
+				},
+				{
+					"id": "iron_bar",
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": "iron_sword",
+			"time": 8.0,
+			"count": 1,
+			"tech": "w3",
+			"workbench": "workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "wood",
+					"count": 2
+				},
+				{
+					"id": "iron_bar",
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": "crossbow",
+			"time": 8.0,
+			"count": 1,
+			"tech": "wr2",
+			"workbench": "workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "wood",
+					"count": 20
+				},
+				{
+					"id": "iron_bar",
+					"count": 10
+				}
+			]
+		},
+		{
+			"id": "axe_stone",
+			"time": 5.0,
+			"count": 1,
+			"tech": "ax1",
+			"workbench": "workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "wood",
+					"count": 1
+				},
+				{
+					"id": "stone",
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": "axe_iron",
+			"time": 5.0,
+			"count": 1,
+			"tech": "ax2",
+			"workbench": "workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "wood",
+					"count": 1
+				},
+				{
+					"id": "iron_bar",
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": "pick_stone",
+			"time": 5.0,
+			"count": 1,
+			"tech": "p1",
+			"workbench": "workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "wood",
+					"count": 2
+				},
+				{
+					"id": "stone",
+					"count": 3
+				}
+			]
+		},
+		{
+			"id": "pick_iron",
+			"time": 5.0,
+			"count": 1,
+			"tech": "p2",
+			"workbench": "workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "wood",
+					"count": 2
+				},
+				{
+					"id": "iron_bar",
+					"count": 3
+				}
+			]
+		},
+		{
+			"id": "salve",
+			"time": 4.0,
+			"count": 1,
+			"tech": "m1",
+			"workbench": "workbench",
+			"group": "medic",
+			"res": [
+				{
+					"id": "leaf",
+					"count": 2
+				},
+				{
+					"id": "grass",
+					"count": 4
+				},
+				{
+					"id": "berry",
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": "leather_clothes",
+			"time": 10.0,
+			"count": 1,
+			"tech": "a1",
+			"workbench": "workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "leather",
+					"count": 10
+				}
+			]
+		},
+		{
+			"id": "pump",
+			"time": 12.0,
+			"count": 1,
+			"tech": "e5",
+			"workbench": "industrial_workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "iron_bar",
+					"count": 5
+				},
+				{
+					"id": "gum",
+					"count": 5
+				},
+				{
+					"id": "copper_bar",
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": "industrial_workbench",
+			"time": 20.0,
+			"count": 1,
+			"tech": "e4",
+			"workbench": "workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 20
+				},
+				{
+					"id": "wood",
+					"count": 20
+				},
+				{
+					"id": "copper_bar",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "extractor",
+			"time": 20.0,
+			"count": 1,
+			"tech": "e5",
+			"workbench": "workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 20
+				},
+				{
+					"id": "stone",
+					"count": 10
+				},
+				{
+					"id": "copper_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "distiller",
+			"time": 20.0,
+			"count": 1,
+			"tech": "e6",
+			"workbench": "workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 20
+				},
+				{
+					"id": "gum",
+					"count": 10
+				},
+				{
+					"id": "copper_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "rocket_r1",
+			"time": 30.0,
+			"count": 1,
+			"tech": "r1",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 2
+				},
+				{
+					"id": "gum",
+					"count": 50
+				},
+				{
+					"id": "copper_block",
+					"count": 1
+				},
+				{
+					"id": "titanium_bar",
+					"count": 50
+				},
+				{
+					"id": "glass",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "rocket_engine_re1",
+			"time": 30.0,
+			"count": 1,
+			"tech": "re1",
+			"workbench": "industrial_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 1
+				},
+				{
+					"id": "copper_bar",
+					"count": 20
+				},
+				{
+					"id": "lead_bar",
+					"count": 10
+				},
+				{
+					"id": "gum",
+					"count": 10
+				},
+				{
+					"id": "titanium_bar",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "space_radar_sr1",
+			"time": 30.0,
+			"count": 1,
+			"tech": "s1",
+			"workbench": "industrial_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 1
+				},
+				{
+					"id": "copper_bar",
+					"count": 10
+				},
+				{
+					"id": "lead_bar",
+					"count": 1
+				},
+				{
+					"id": "glass",
+					"count": 10
+				},
+				{
+					"id": "nitrocalite_powder",
+					"count": 10
+				}
+			]
+		},
+		{
+			"id": "oxygen_generator_og1",
+			"time": 30.0,
+			"count": 1,
+			"tech": "o1",
+			"workbench": "industrial_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 1
+				},
+				{
+					"id": "copper_bar",
+					"count": 10
+				},
+				{
+					"id": "gum",
+					"count": 2
+				},
+				{
+					"id": "sulfur",
+					"count": 10
+				},
+				{
+					"id": "coal_powder",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "shovel_bone",
+			"time": 5.0,
+			"count": 1,
+			"tech": "sh1",
+			"workbench": "workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "wood",
+					"count": 2
+				},
+				{
+					"id": "bone",
+					"count": 8
+				}
+			]
+		},
+		{
+			"id": "hoe_bone",
+			"time": 5.0,
+			"count": 1,
+			"tech": "h1",
+			"workbench": "workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "wood",
+					"count": 2
+				},
+				{
+					"id": "bone",
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": "culinary_table",
+			"time": 20.0,
+			"count": 1,
+			"tech": "e2",
+			"workbench": "workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "wood",
+					"count": 20
+				},
+				{
+					"id": "iron_bar",
+					"count": 5
+				},
+				{
+					"id": "copper_bar",
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": "space_suit",
+			"time": 20.0,
+			"count": 1,
+			"tech": "o2",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "gum",
+					"count": 40
+				},
+				{
+					"id": "copper_bar",
+					"count": 5
+				},
+				{
+					"id": "glass",
+					"count": 5
+				},
+				{
+					"id": "sulfur",
+					"count": 5
+				},
+				{
+					"id": "coal_powder",
+					"count": 10
+				}
+			]
+		},
+		{
+			"id": "wall_stone",
+			"time": 6.0,
+			"count": 1,
+			"tech": "b4",
+			"workbench": "workbench",
+			"group": "build",
+			"res": [
+				{
+					"id": "stone",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "door_stone",
+			"time": 6.0,
+			"count": 1,
+			"tech": "b4",
+			"workbench": "workbench",
+			"group": "build",
+			"res": [
+				{
+					"id": "stone",
+					"count": 8
+				}
+			]
+		},
+		{
+			"id": "floor_stone",
+			"time": 3.0,
+			"count": 1,
+			"tech": "b4",
+			"workbench": "workbench",
+			"group": "build",
+			"res": [
+				{
+					"id": "stone",
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": "wall_brick",
+			"time": 8.0,
+			"count": 1,
+			"tech": "b5",
+			"workbench": "workbench",
+			"group": "build",
+			"res": [
+				{
+					"id": "sand",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "door_brick",
+			"time": 8.0,
+			"count": 1,
+			"tech": "b5",
+			"workbench": "workbench",
+			"group": "build",
+			"res": [
+				{
+					"id": "sand",
+					"count": 8
+				}
+			]
+		},
+		{
+			"id": "floor_brick",
+			"time": 3.0,
+			"count": 1,
+			"tech": "b5",
+			"workbench": "workbench",
+			"group": "build",
+			"res": [
+				{
+					"id": "sand",
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": "wall_iron",
+			"time": 6.0,
+			"count": 1,
+			"tech": "b6",
+			"workbench": "industrial_workbench",
+			"group": "build",
+			"res": [
+				{
+					"id": "iron_bar",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "door_iron",
+			"time": 6.0,
+			"count": 1,
+			"tech": "b6",
+			"workbench": "industrial_workbench",
+			"group": "build",
+			"res": [
+				{
+					"id": "iron_bar",
+					"count": 8
+				}
+			]
+		},
+		{
+			"id": "floor_iron",
+			"time": 3.0,
+			"count": 1,
+			"tech": "b6",
+			"workbench": "industrial_workbench",
+			"group": "build",
+			"res": [
+				{
+					"id": "iron_bar",
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": "iron_armor",
+			"time": 15.0,
+			"count": 1,
+			"tech": "a2",
+			"workbench": "workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "iron_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "steel_armor",
+			"time": 15.0,
+			"count": 1,
+			"tech": "a3",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "titan_armor",
+			"time": 15.0,
+			"count": 1,
+			"tech": "a4",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "titanium_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "iron_spear",
+			"time": 10.0,
+			"count": 1,
+			"tech": "w4",
+			"workbench": "workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "wood",
+					"count": 10
+				},
+				{
+					"id": "iron_bar",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "arrow_iron",
+			"time": 5.0,
+			"count": 5,
+			"tech": "wr3",
+			"workbench": "workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "wood",
+					"count": 1
+				},
+				{
+					"id": "iron_bar",
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": "musket",
+			"time": 10.0,
+			"count": 1,
+			"tech": "wr4",
+			"workbench": "industrial_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "wood",
+					"count": 10
+				},
+				{
+					"id": "iron_bar",
+					"count": 10
+				},
+				{
+					"id": "steel_bar",
+					"count": 20
+				},
+				{
+					"id": "copper_bar",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "musket_bullet",
+			"time": 5.0,
+			"count": 5,
+			"tech": "wr4",
+			"workbench": "industrial_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "powder",
+					"count": 1
+				},
+				{
+					"id": "iron_bar",
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": "revolver",
+			"time": 10.0,
+			"count": 1,
+			"tech": "wr5",
+			"workbench": "industrial_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "wood",
+					"count": 5
+				},
+				{
+					"id": "iron_bar",
+					"count": 5
+				},
+				{
+					"id": "steel_bar",
+					"count": 15
+				},
+				{
+					"id": "copper_bar",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "revolver_bullet",
+			"time": 5.0,
+			"count": 5,
+			"tech": "wr5",
+			"workbench": "industrial_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "powder",
+					"count": 1
+				},
+				{
+					"id": "iron_bar",
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": "rifle",
+			"time": 10.0,
+			"count": 1,
+			"tech": "wr6",
+			"workbench": "industrial_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "wood",
+					"count": 10
+				},
+				{
+					"id": "iron_bar",
+					"count": 20
+				},
+				{
+					"id": "steel_bar",
+					"count": 40
+				},
+				{
+					"id": "copper_bar",
+					"count": 10
+				}
+			]
+		},
+		{
+			"id": "rifle_bullet",
+			"time": 5.0,
+			"count": 5,
+			"tech": "wr6",
+			"workbench": "industrial_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "powder",
+					"count": 2
+				},
+				{
+					"id": "iron_bar",
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": "submachine_gun",
+			"time": 10.0,
+			"count": 1,
+			"tech": "wr7",
+			"workbench": "industrial_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "wood",
+					"count": 10
+				},
+				{
+					"id": "iron_bar",
+					"count": 40
+				},
+				{
+					"id": "steel_bar",
+					"count": 80
+				},
+				{
+					"id": "copper_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "submachine_gun_bullet",
+			"time": 5.0,
+			"count": 5,
+			"tech": "wr7",
+			"workbench": "industrial_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "powder",
+					"count": 1
+				},
+				{
+					"id": "iron_bar",
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": "shovel_iron",
+			"time": 5.0,
+			"count": 1,
+			"tech": "sh2",
+			"workbench": "workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "wood",
+					"count": 2
+				},
+				{
+					"id": "iron_bar",
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": "shovel_steel",
+			"time": 5.0,
+			"count": 1,
+			"tech": "sh3",
+			"workbench": "industrial_workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "wood",
+					"count": 2
+				},
+				{
+					"id": "steel_bar",
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": "shovel_titan",
+			"time": 5.0,
+			"count": 1,
+			"tech": "sh4",
+			"workbench": "industrial_workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "iron_bar",
+					"count": 2
+				},
+				{
+					"id": "titanium_bar",
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": "hoe_iron",
+			"time": 5.0,
+			"count": 1,
+			"tech": "h2",
+			"workbench": "workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "wood",
+					"count": 2
+				},
+				{
+					"id": "iron_bar",
+					"count": 3
+				}
+			]
+		},
+		{
+			"id": "hoe_steel",
+			"time": 5.0,
+			"count": 1,
+			"tech": "h3",
+			"workbench": "industrial_workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "wood",
+					"count": 2
+				},
+				{
+					"id": "steel_bar",
+					"count": 3
+				}
+			]
+		},
+		{
+			"id": "hoe_titan",
+			"time": 5.0,
+			"count": 1,
+			"tech": "h4",
+			"workbench": "industrial_workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "iron_bar",
+					"count": 2
+				},
+				{
+					"id": "titanium_bar",
+					"count": 3
+				}
+			]
+		},
+		{
+			"id": "pick_steel",
+			"time": 5.0,
+			"count": 1,
+			"tech": "p3",
+			"workbench": "industrial_workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "iron_bar",
+					"count": 2
+				},
+				{
+					"id": "steel_bar",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "pick_titan",
+			"time": 5.0,
+			"count": 1,
+			"tech": "p4",
+			"workbench": "industrial_workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "iron_bar",
+					"count": 2
+				},
+				{
+					"id": "titanium_bar",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "axe_steel",
+			"time": 5.0,
+			"count": 1,
+			"tech": "ax3",
+			"workbench": "industrial_workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "iron_bar",
+					"count": 2
+				},
+				{
+					"id": "steel_bar",
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": "axe_titan",
+			"time": 5.0,
+			"count": 1,
+			"tech": "ax4",
+			"workbench": "industrial_workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "iron_bar",
+					"count": 2
+				},
+				{
+					"id": "titanium_bar",
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": "press",
+			"time": 10.0,
+			"count": 1,
+			"tech": "e3_1",
+			"workbench": "workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "iron_bar",
+					"count": 20
+				},
+				{
+					"id": "copper_bar",
+					"count": 20
+				},
+				{
+					"id": "steel_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "trading_station",
+			"time": 10.0,
+			"count": 1,
+			"tech": "e4_1",
+			"workbench": "industrial_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "wood",
+					"count": 100
+				},
+				{
+					"id": "copper_bar",
+					"count": 50
+				},
+				{
+					"id": "steel_bar",
+					"count": 20
+				},
+				{
+					"id": "glass",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "trade_scanner",
+			"time": 10.0,
+			"count": 1,
+			"tech": "e4_2",
+			"workbench": "industrial_workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "iron_bar",
+					"count": 5
+				},
+				{
+					"id": "copper_bar",
+					"count": 20
+				},
+				{
+					"id": "glass",
+					"count": 10
+				},
+				{
+					"id": "nitrocalite",
+					"count": 10
+				},
+				{
+					"id": "lead_bar",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "cigar",
+			"time": 4.0,
+			"count": 1,
+			"tech": "m2",
+			"workbench": "workbench",
+			"group": "medic",
+			"res": [
+				{
+					"id": "leaf",
+					"count": 10
+				},
+				{
+					"id": "salt",
+					"count": 10
+				}
+			]
+		},
+		{
+			"id": "stone_hammer",
+			"time": 5.0,
+			"count": 1,
+			"tech": "hm1",
+			"workbench": "workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "wood",
+					"count": 2
+				},
+				{
+					"id": "stone",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "steel_hammer",
+			"time": 5.0,
+			"count": 1,
+			"tech": "hm2",
+			"workbench": "workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "wood",
+					"count": 2
+				},
+				{
+					"id": "steel_bar",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "iron_workbench",
+			"time": 10.0,
+			"count": 1,
+			"tech": "e1_1",
+			"workbench": "workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "iron_bar",
+					"count": 10
+				}
+			]
+		},
+		{
+			"id": "box",
+			"time": 8.0,
+			"count": 1,
+			"tech": "c2",
+			"workbench": "workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "container",
+			"time": 8.0,
+			"count": 1,
+			"tech": "c3",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "titanium_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "large_container",
+			"time": 8.0,
+			"count": 1,
+			"tech": "c4",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "cobalt_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "comfortable_bed",
+			"time": 8.0,
+			"count": 1,
+			"tech": "b2_1",
+			"workbench": "workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "wood",
+					"count": 50
+				},
+				{
+					"id": "leather",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "titanium_bed",
+			"time": 8.0,
+			"count": 1,
+			"tech": "b2_2",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "titanium_bar",
+					"count": 50
+				},
+				{
+					"id": "leather",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "tungsten_bed",
+			"time": 8.0,
+			"count": 1,
+			"tech": "b2_3",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "tungsten_bar",
+					"count": 50
+				},
+				{
+					"id": "leather",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "ground_cube",
+			"time": 8.0,
+			"count": 1,
+			"tech": "b7",
+			"workbench": "workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "stone",
+					"count": 250
+				},
+				{
+					"id": "faunitron",
+					"count": 10
+				}
+			]
+		},
+		{
+			"id": "ditch_dig",
+			"time": 8.0,
+			"count": 1,
+			"tech": "b7",
+			"workbench": "workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "powder",
+					"count": 50
+				},
+				{
+					"id": "faunitron",
+					"count": 10
+				},
+				{
+					"id": "kerosene",
+					"count": 25
+				},
+				{
+					"id": "iron_bar",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "wooden_bridge",
+			"time": 2.0,
+			"count": 1,
+			"tech": "bb1",
+			"workbench": "workbench",
+			"group": "build",
+			"res": [
+				{
+					"id": "wood",
+					"count": 10
+				},
+				{
+					"id": "iron_bar",
+					"count": 5
+				}
+			]
+		},
+
+
+
+		{
+			"id": "stone_bridge",
+			"time": 3.0,
+			"count": 1,
+			"tech": "bb2",
+			"workbench": "workbench",
+			"group": "build",
+			"res": [
+				{
+					"id": "stone",
+					"count": 10
+				},
+				{
+					"id": "iron_bar",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "brick_bridge",
+			"time": 3.0,
+			"count": 1,
+			"tech": "bb3",
+			"workbench": "workbench",
+			"group": "build",
+			"res": [
+				{
+					"id": "sand",
+					"count": 10
+				},
+				{
+					"id": "iron_bar",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "iron_bridge",
+			"time": 3.0,
+			"count": 1,
+			"tech": "bb4",
+			"workbench": "industrial_workbench",
+			"group": "build",
+			"res": [
+				{
+					"id": "iron_bar",
+					"count": 10
+				},
+				{
+					"id": "steel_bar",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "car_1",
+			"time": 30.0,
+			"count": 1,
+			"tech": "car1",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 1
+				},
+				{
+					"id": "leather",
+					"count": 50
+				},
+				{
+					"id": "copper_bar",
+					"count": 50
+				},
+				{
+					"id": "iron_bar",
+					"count": 50
+				},
+				{
+					"id": "glass",
+					"count": 10
+				},
+				{
+					"id": "gum_block",
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": "car_engine1",
+			"time": 30.0,
+			"count": 1,
+			"tech": "ce1",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 50
+				},
+				{
+					"id": "copper_bar",
+					"count": 50
+				},
+				{
+					"id": "iron_bar",
+					"count": 20
+				},
+				{
+					"id": "lead_bar",
+					"count": 20
+				},
+				{
+					"id": "gum",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "car_2",
+			"time": 30.0,
+			"count": 1,
+			"tech": "car2",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 2
+				},
+				{
+					"id": "leather",
+					"count": 100
+				},
+				{
+					"id": "copper_block",
+					"count": 1
+				},
+				{
+					"id": "iron_block",
+					"count": 1
+				},
+				{
+					"id": "glass",
+					"count": 20
+				},
+				{
+					"id": "gum_block",
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": "car_3",
+			"time": 30.0,
+			"count": 1,
+			"tech": "car3",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 4
+				},
+				{
+					"id": "leather",
+					"count": 200
+				},
+				{
+					"id": "copper_block",
+					"count": 2
+				},
+				{
+					"id": "iron_block",
+					"count": 2
+				},
+				{
+					"id": "glass",
+					"count": 40
+				},
+				{
+					"id": "gum_block",
+					"count": 6
+				}
+			]
+		},
+		{
+			"id": "car_engine2",
+			"time": 30.0,
+			"count": 1,
+			"tech": "ce2",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 1
+				},
+				{
+					"id": "copper_block",
+					"count": 1
+				},
+				{
+					"id": "iron_bar",
+					"count": 40
+				},
+				{
+					"id": "lead_bar",
+					"count": 40
+				},
+				{
+					"id": "gum",
+					"count": 40
+				}
+			]
+		},
+		{
+			"id": "car_engine3",
+			"time": 30.0,
+			"count": 1,
+			"tech": "ce3",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 2
+				},
+				{
+					"id": "copper_block",
+					"count": 2
+				},
+				{
+					"id": "iron_bar",
+					"count": 80
+				},
+				{
+					"id": "lead_bar",
+					"count": 80
+				},
+				{
+					"id": "gum",
+					"count": 80
+				}
+			]
+		},
+		{
+			"id": "armored_car1",
+			"time": 30.0,
+			"count": 1,
+			"tech": "ac1",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 10
+				},
+				{
+					"id": "leather",
+					"count": 200
+				},
+				{
+					"id": "copper_block",
+					"count": 2
+				},
+				{
+					"id": "iron_block",
+					"count": 4
+				},
+				{
+					"id": "glass",
+					"count": 10
+				},
+				{
+					"id": "gum_block",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "car_engine_ceh1",
+			"time": 30.0,
+			"count": 1,
+			"tech": "ceh1",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 4
+				},
+				{
+					"id": "copper_block",
+					"count": 4
+				},
+				{
+					"id": "iron_bar",
+					"count": 150
+				},
+				{
+					"id": "lead_bar",
+					"count": 150
+				},
+				{
+					"id": "gum_block",
+					"count": 2
+				},
+				{
+					"id": "titanium_bar",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "car_engine_ceh2",
+			"time": 30.0,
+			"count": 1,
+			"tech": "ceh2",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 6
+				},
+				{
+					"id": "copper_block",
+					"count": 6
+				},
+				{
+					"id": "iron_block",
+					"count": 2
+				},
+				{
+					"id": "lead_block",
+					"count": 2
+				},
+				{
+					"id": "gum_block",
+					"count": 3
+				},
+				{
+					"id": "titanium_bar",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "heavy_machine_gun1",
+			"time": 10.0,
+			"count": 1,
+			"tech": "wc1",
+			"workbench": "industrial_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "wood",
+					"count": 50
+				},
+				{
+					"id": "iron_bar",
+					"count": 200
+				},
+				{
+					"id": "steel_bar",
+					"count": 400
+				},
+				{
+					"id": "copper_bar",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "heavy_machine_gun_bullet1",
+			"time": 5.0,
+			"count": 5,
+			"tech": "wc1",
+			"workbench": "industrial_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "powder",
+					"count": 20
+				},
+				{
+					"id": "iron_bar",
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": "car_buggy",
+			"time": 30.0,
+			"count": 1,
+			"tech": "car4",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 1
+				},
+				{
+					"id": "leather",
+					"count": 100
+				},
+				{
+					"id": "copper_bar",
+					"count": 50
+				},
+				{
+					"id": "iron_bar",
+					"count": 50
+				},
+				{
+					"id": "glass",
+					"count": 50
+				},
+				{
+					"id": "gum_block",
+					"count": 3
+				}
+			]
+		},
+		{
+			"id": "cobalt_furnace",
+			"time": 10.0,
+			"count": 1,
+			"tech": "e6_1",
+			"workbench": "industrial_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "cobalt_bar",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "cobalt_crusher",
+			"time": 10.0,
+			"count": 1,
+			"tech": "e6_2",
+			"workbench": "industrial_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "cobalt_bar",
+					"count": 50
+				},
+				{
+					"id": "copper_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "cobalt_extractor",
+			"time": 10.0,
+			"count": 1,
+			"tech": "e6_3",
+			"workbench": "industrial_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "cobalt_bar",
+					"count": 50
+				},
+				{
+					"id": "copper_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "cobalt_distiller",
+			"time": 10.0,
+			"count": 1,
+			"tech": "e6_4",
+			"workbench": "industrial_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "cobalt_bar",
+					"count": 50
+				},
+				{
+					"id": "gum",
+					"count": 50
+				},
+				{
+					"id": "copper_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "cobalt_press",
+			"time": 10.0,
+			"count": 1,
+			"tech": "e6_5",
+			"workbench": "industrial_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "cobalt_bar",
+					"count": 50
+				},
+				{
+					"id": "copper_bar",
+					"count": 20
+				},
+				{
+					"id": "steel_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "rocket_jalopy",
+			"time": 20.0,
+			"count": 1,
+			"tech": "r0",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 2
+				},
+				{
+					"id": "gum",
+					"count": 20
+				},
+				{
+					"id": "copper_bar",
+					"count": 50
+				},
+				{
+					"id": "glass",
+					"count": 10
+				}
+			]
+		},
+		{
+			"id": "rocket_engine_jalopy",
+			"time": 20.0,
+			"count": 1,
+			"tech": "r0",
+			"workbench": "industrial_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 50
+				},
+				{
+					"id": "copper_bar",
+					"count": 10
+				},
+				{
+					"id": "lead_bar",
+					"count": 10
+				},
+				{
+					"id": "gum",
+					"count": 10
+				}
+			]
+		},
+		{
+			"id": "oxygen_box",
+			"time": 20.0,
+			"count": 1,
+			"tech": "o0",
+			"workbench": "industrial_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 1
+				},
+				{
+					"id": "copper_bar",
+					"count": 5
+				},
+				{
+					"id": "gum",
+					"count": 5
+				},
+				{
+					"id": "coal_powder",
+					"count": 200
+				}
+			]
+		},
+		{
+			"id": "space_gun_viper",
+			"time": 10.0,
+			"count": 1,
+			"tech": "ws1",
+			"workbench": "industrial_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "iron_bar",
+					"count": 100
+				},
+				{
+					"id": "steel_bar",
+					"count": 200
+				},
+				{
+					"id": "copper_bar",
+					"count": 100
+				},
+				{
+					"id": "gum",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "space_gun_shell1",
+			"time": 5.0,
+			"count": 1,
+			"tech": "ws1",
+			"workbench": "industrial_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "powder",
+					"count": 1
+				},
+				{
+					"id": "steel_bar",
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": "item_collector1",
+			"time": 10.0,
+			"count": 1,
+			"tech": "sc1",
+			"workbench": "industrial_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 100
+				},
+				{
+					"id": "copper_bar",
+					"count": 200
+				},
+				{
+					"id": "gum",
+					"count": 200
+				},
+				{
+					"id": "nitrocalite",
+					"count": 100
+				},
+				{
+					"id": "lead_bar",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "space_suit2",
+			"time": 20.0,
+			"count": 1,
+			"tech": "o3",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "gum",
+					"count": 100
+				},
+				{
+					"id": "titanium_bar",
+					"count": 50
+				},
+				{
+					"id": "copper_bar",
+					"count": 10
+				},
+				{
+					"id": "glass",
+					"count": 10
+				},
+				{
+					"id": "sulfur",
+					"count": 50
+				},
+				{
+					"id": "coal_powder",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "oxygen_generator_og2",
+			"time": 30.0,
+			"count": 1,
+			"tech": "o4",
+			"workbench": "industrial_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "titanium_bar",
+					"count": 10
+				},
+				{
+					"id": "copper_bar",
+					"count": 100
+				},
+				{
+					"id": "gum",
+					"count": 20
+				},
+				{
+					"id": "sulfur",
+					"count": 100
+				},
+				{
+					"id": "coal_powder",
+					"count": 200
+				}
+			]
+		},
+		{
+			"id": "medicine_chest",
+			"time": 4.0,
+			"count": 1,
+			"tech": "m3",
+			"workbench": "workbench",
+			"group": "medic",
+			"res": [
+				{
+					"id": "rubber",
+					"count": 5
+				},
+				{
+					"id": "fat_tail",
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": "energy_mixture",
+			"time": 4.0,
+			"count": 1,
+			"tech": "m4",
+			"workbench": "workbench",
+			"group": "medic",
+			"res": [
+				{
+					"id": "rubber",
+					"count": 10
+				},
+				{
+					"id": "fat_tail",
+					"count": 2
+				},
+				{
+					"id": "salt",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "rocket_r2",
+			"time": 30.0,
+			"count": 1,
+			"tech": "r2",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 4
+				},
+				{
+					"id": "gum_block",
+					"count": 1
+				},
+				{
+					"id": "copper_block",
+					"count": 1
+				},
+				{
+					"id": "titanium_block",
+					"count": 1
+				},
+				{
+					"id": "glass",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "rocket_r3",
+			"time": 30.0,
+			"count": 1,
+			"tech": "r3",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 6
+				},
+				{
+					"id": "gum_block",
+					"count": 1
+				},
+				{
+					"id": "copper_block",
+					"count": 1
+				},
+				{
+					"id": "titanium_block",
+					"count": 2
+				},
+				{
+					"id": "glass",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "rocket_cargo1",
+			"time": 30.0,
+			"count": 1,
+			"tech": "r4",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 5
+				},
+				{
+					"id": "gum_block",
+					"count": 2
+				},
+				{
+					"id": "copper_block",
+					"count": 2
+				},
+				{
+					"id": "titanium_block",
+					"count": 5
+				},
+				{
+					"id": "glass",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "rocket_cargo2",
+			"time": 30.0,
+			"count": 1,
+			"tech": "r5",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 5
+				},
+				{
+					"id": "gum_block",
+					"count": 3
+				},
+				{
+					"id": "copper_block",
+					"count": 3
+				},
+				{
+					"id": "titanium_block",
+					"count": 10
+				},
+				{
+					"id": "glass",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "rocket_engine_re2",
+			"time": 30.0,
+			"count": 1,
+			"tech": "re2",
+			"workbench": "industrial_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 2
+				},
+				{
+					"id": "copper_bar",
+					"count": 50
+				},
+				{
+					"id": "lead_bar",
+					"count": 50
+				},
+				{
+					"id": "gum",
+					"count": 50
+				},
+				{
+					"id": "titanium_bar",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "rocket_engine_re3",
+			"time": 30.0,
+			"count": 1,
+			"tech": "re3",
+			"workbench": "industrial_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 2
+				},
+				{
+					"id": "copper_block",
+					"count": 1
+				},
+				{
+					"id": "lead_block",
+					"count": 1
+				},
+				{
+					"id": "gum_block",
+					"count": 1
+				},
+				{
+					"id": "titanium_block",
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": "rocket_engine_sfe1",
+			"time": 30.0,
+			"count": 1,
+			"tech": "re4",
+			"workbench": "industrial_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "cobalt_block",
+					"count": 2
+				},
+				{
+					"id": "copper_block",
+					"count": 1
+				},
+				{
+					"id": "lead_block",
+					"count": 1
+				},
+				{
+					"id": "gum_block",
+					"count": 1
+				},
+				{
+					"id": "titanium_block",
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": "rocket_engine_sfe2",
+			"time": 30.0,
+			"count": 1,
+			"tech": "re5",
+			"workbench": "industrial_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "cobalt_block",
+					"count": 4
+				},
+				{
+					"id": "copper_bar",
+					"count": 150
+				},
+				{
+					"id": "lead_bar",
+					"count": 150
+				},
+				{
+					"id": "gum",
+					"count": 150
+				},
+				{
+					"id": "titanium_block",
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": "rocket_engine_sfe3",
+			"time": 30.0,
+			"count": 1,
+			"tech": "re6",
+			"workbench": "industrial_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "cobalt_block",
+					"count": 8
+				},
+				{
+					"id": "copper_block",
+					"count": 2
+				},
+				{
+					"id": "lead_block",
+					"count": 2
+				},
+				{
+					"id": "gum_block",
+					"count": 2
+				},
+				{
+					"id": "titanium_block",
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": "xinitron",
+			"time": 2.0,
+			"count": 1,
+			"tech": "rb1",
+			"workbench": "industrial_workbench",
+			"group": "material",
+			"res": [
+				{
+					"id": "xirium",
+					"count": 1
+				},
+				{
+					"id": "faunitron",
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": "rocket_booster_rb1",
+			"time": 10.0,
+			"count": 1,
+			"tech": "rb1",
+			"workbench": "industrial_workbench",
+			"group": "material",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 5
+				},
+				{
+					"id": "copper_bar",
+					"count": 10
+				},
+				{
+					"id": "xinitron",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "titan_cutter",
+			"time": 8.0,
+			"count": 1,
+			"tech": "w5",
+			"workbench": "industrial_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 5
+				},
+				{
+					"id": "titanium_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "cobalt_cutter",
+			"time": 8.0,
+			"count": 1,
+			"tech": "w6",
+			"workbench": "industrial_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 5
+				},
+				{
+					"id": "cobalt_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "tungsten_cutter",
+			"time": 8.0,
+			"count": 1,
+			"tech": "w7",
+			"workbench": "industrial_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 5
+				},
+				{
+					"id": "tungsten_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "omicronium_cutter",
+			"time": 8.0,
+			"count": 1,
+			"tech": "w8",
+			"workbench": "industrial_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 5
+				},
+				{
+					"id": "omicronium_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "space_gun_anaconda",
+			"time": 10.0,
+			"count": 1,
+			"tech": "ws2",
+			"workbench": "industrial_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 100
+				},
+				{
+					"id": "titanium_bar",
+					"count": 200
+				},
+				{
+					"id": "copper_bar",
+					"count": 100
+				},
+				{
+					"id": "gum",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "space_gun_shell2",
+			"time": 5.0,
+			"count": 1,
+			"tech": "ws2",
+			"workbench": "industrial_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "powder",
+					"count": 2
+				},
+				{
+					"id": "steel_bar",
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": "space_gun_taipan",
+			"time": 10.0,
+			"count": 1,
+			"tech": "ws3",
+			"workbench": "industrial_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 200
+				},
+				{
+					"id": "titanium_bar",
+					"count": 400
+				},
+				{
+					"id": "copper_bar",
+					"count": 200
+				},
+				{
+					"id": "gum",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "space_gun_shell3",
+			"time": 5.0,
+			"count": 1,
+			"tech": "ws3",
+			"workbench": "industrial_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "powder",
+					"count": 5
+				},
+				{
+					"id": "steel_bar",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "cobalt_drill",
+			"time": 5.0,
+			"count": 1,
+			"tech": "p5",
+			"workbench": "industrial_workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 5
+				},
+				{
+					"id": "cobalt_bar",
+					"count": 20
+				},
+				{
+					"id": "copper_bar",
+					"count": 10
+				},
+				{
+					"id": "lead_bar",
+					"count": 2
+				},
+				{
+					"id": "nitrocalite",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "cobalt_saw",
+			"time": 5.0,
+			"count": 1,
+			"tech": "ax5",
+			"workbench": "industrial_workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 5
+				},
+				{
+					"id": "cobalt_bar",
+					"count": 10
+				},
+				{
+					"id": "copper_bar",
+					"count": 10
+				},
+				{
+					"id": "lead_bar",
+					"count": 2
+				},
+				{
+					"id": "nitrocalite",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "tungsten_drill",
+			"time": 5.0,
+			"count": 1,
+			"tech": "p6",
+			"workbench": "industrial_workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 5
+				},
+				{
+					"id": "tungsten_bar",
+					"count": 20
+				},
+				{
+					"id": "copper_bar",
+					"count": 10
+				},
+				{
+					"id": "lead_bar",
+					"count": 2
+				},
+				{
+					"id": "nitrocalite",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "tungsten_saw",
+			"time": 5.0,
+			"count": 1,
+			"tech": "ax6",
+			"workbench": "industrial_workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 5
+				},
+				{
+					"id": "tungsten_bar",
+					"count": 10
+				},
+				{
+					"id": "copper_bar",
+					"count": 10
+				},
+				{
+					"id": "lead_bar",
+					"count": 2
+				},
+				{
+					"id": "nitrocalite",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "omicronium_drill",
+			"time": 5.0,
+			"count": 1,
+			"tech": "p7",
+			"workbench": "industrial_workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 5
+				},
+				{
+					"id": "omicronium_bar",
+					"count": 20
+				},
+				{
+					"id": "copper_bar",
+					"count": 10
+				},
+				{
+					"id": "lead_bar",
+					"count": 2
+				},
+				{
+					"id": "nitrocalite",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "omicronium_saw",
+			"time": 5.0,
+			"count": 1,
+			"tech": "ax7",
+			"workbench": "industrial_workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 5
+				},
+				{
+					"id": "omicronium_bar",
+					"count": 10
+				},
+				{
+					"id": "copper_bar",
+					"count": 10
+				},
+				{
+					"id": "lead_bar",
+					"count": 2
+				},
+				{
+					"id": "nitrocalite",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "iron_boat",
+			"time": 10.0,
+			"count": 1,
+			"tech": "bt2",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "iron_bar",
+					"count": 50
+				},
+				{
+					"id": "steel_bar",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "lab_table",
+			"time": 20.0,
+			"count": 1,
+			"tech": "e7",
+			"workbench": "industrial_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 20
+				},
+				{
+					"id": "titanium_bar",
+					"count": 20
+				},
+				{
+					"id": "copper_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "landing_area",
+			"time": 3.0,
+			"count": 1,
+			"tech": "b8",
+			"workbench": "industrial_workbench",
+			"group": "build",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 20
+				},
+				{
+					"id": "titanium_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "bio_scanner",
+			"time": 10.0,
+			"count": 1,
+			"tech": "e7_1",
+			"workbench": "industrial_workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "tungsten_bar",
+					"count": 5
+				},
+				{
+					"id": "copper_bar",
+					"count": 20
+				},
+				{
+					"id": "glass",
+					"count": 20
+				},
+				{
+					"id": "faunitron",
+					"count": 20
+				},
+				{
+					"id": "lead_bar",
+					"count": 10
+				}
+			]
+		},
+		{
+			"id": "repair_box",
+			"time": 10.0,
+			"count": 1,
+			"tech": "hm3",
+			"workbench": "industrial_workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "cobalt_bar",
+					"count": 20
+				},
+				{
+					"id": "copper_bar",
+					"count": 20
+				},
+				{
+					"id": "steel_bar",
+					"count": 10
+				},
+				{
+					"id": "gum",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "cobalt_armor",
+			"time": 15.0,
+			"count": 1,
+			"tech": "a5",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "cobalt_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "tungsten_armor",
+			"time": 15.0,
+			"count": 1,
+			"tech": "a6",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "tungsten_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "omicronium_armor",
+			"time": 15.0,
+			"count": 1,
+			"tech": "a7",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "omicronium_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "cyber_workbench",
+			"time": 20.0,
+			"count": 1,
+			"tech": "e8",
+			"workbench": "industrial_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "cobalt_bar",
+					"count": 100
+				},
+				{
+					"id": "tungsten_bar",
+					"count": 20
+				},
+				{
+					"id": "copper_bar",
+					"count": 50
+				},
+				{
+					"id": "lead_bar",
+					"count": 50
+				},
+				{
+					"id": "gum",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "machine_gun_mg1",
+			"time": 10.0,
+			"count": 1,
+			"tech": "wr8",
+			"workbench": "industrial_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "wood",
+					"count": 20
+				},
+				{
+					"id": "steel_bar",
+					"count": 100
+				},
+				{
+					"id": "cobalt_bar",
+					"count": 20
+				},
+				{
+					"id": "copper_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "rifle_v1",
+			"time": 10.0,
+			"count": 1,
+			"tech": "wr9",
+			"workbench": "industrial_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "wood",
+					"count": 30
+				},
+				{
+					"id": "steel_bar",
+					"count": 100
+				},
+				{
+					"id": "cobalt_bar",
+					"count": 50
+				},
+				{
+					"id": "copper_bar",
+					"count": 30
+				}
+			]
+		},
+		{
+			"id": "bullet_b2",
+			"time": 5.0,
+			"count": 5,
+			"tech": "wr9",
+			"workbench": "industrial_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "powder",
+					"count": 2
+				},
+				{
+					"id": "steel_bar",
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": "automat_m1",
+			"time": 10.0,
+			"count": 1,
+			"tech": "wr10",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "wood",
+					"count": 50
+				},
+				{
+					"id": "steel_bar",
+					"count": 150
+				},
+				{
+					"id": "cobalt_bar",
+					"count": 100
+				},
+				{
+					"id": "copper_bar",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "machine_gun_mg2",
+			"time": 10.0,
+			"count": 1,
+			"tech": "wr11",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "wood",
+					"count": 100
+				},
+				{
+					"id": "steel_bar",
+					"count": 300
+				},
+				{
+					"id": "cobalt_bar",
+					"count": 200
+				},
+				{
+					"id": "copper_bar",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "rifle_v2",
+			"time": 10.0,
+			"count": 1,
+			"tech": "wr12",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "wood",
+					"count": 200
+				},
+				{
+					"id": "steel_bar",
+					"count": 500
+				},
+				{
+					"id": "cobalt_bar",
+					"count": 300
+				},
+				{
+					"id": "copper_bar",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "fire_gun",
+			"time": 10.0,
+			"count": 1,
+			"tech": "wr13",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 10
+				},
+				{
+					"id": "cobalt_block",
+					"count": 5
+				},
+				{
+					"id": "copper_block",
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": "electro_gun",
+			"time": 10.0,
+			"count": 1,
+			"tech": "wr14",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "tungsten_bar",
+					"count": 50
+				},
+				{
+					"id": "cobalt_block",
+					"count": 10
+				},
+				{
+					"id": "copper_block",
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": "bullet_e1",
+			"time": 10.0,
+			"count": 1,
+			"tech": "wr14",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "cobalt_bar",
+					"count": 1
+				},
+				{
+					"id": "nitrocalite",
+					"count": 2
+				},
+				{
+					"id": "lead_bar",
+					"count": 2
+				},
+				{
+					"id": "copper_bar",
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": "car_engine_ceh3",
+			"time": 30.0,
+			"count": 1,
+			"tech": "ceh3",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "cobalt_block",
+					"count": 6
+				},
+				{
+					"id": "copper_block",
+					"count": 10
+				},
+				{
+					"id": "iron_block",
+					"count": 4
+				},
+				{
+					"id": "lead_block",
+					"count": 4
+				},
+				{
+					"id": "gum_block",
+					"count": 4
+				},
+				{
+					"id": "titanium_block",
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": "car_engine_ceh4",
+			"time": 30.0,
+			"count": 1,
+			"tech": "ceh4",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "cobalt_block",
+					"count": 10
+				},
+				{
+					"id": "copper_block",
+					"count": 15
+				},
+				{
+					"id": "iron_block",
+					"count": 6
+				},
+				{
+					"id": "lead_block",
+					"count": 6
+				},
+				{
+					"id": "gum_block",
+					"count": 6
+				},
+				{
+					"id": "titanium_block",
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": "armored_car_chipmunk",
+			"time": 30.0,
+			"count": 1,
+			"tech": "ac2",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 20
+				},
+				{
+					"id": "leather",
+					"count": 200
+				},
+				{
+					"id": "copper_block",
+					"count": 4
+				},
+				{
+					"id": "iron_block",
+					"count": 8
+				},
+				{
+					"id": "glass",
+					"count": 10
+				},
+				{
+					"id": "gum_block",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "tank_muskrat",
+			"time": 30.0,
+			"count": 1,
+			"tech": "ac3",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "cobalt_block",
+					"count": 10
+				},
+				{
+					"id": "leather",
+					"count": 200
+				},
+				{
+					"id": "copper_block",
+					"count": 8
+				},
+				{
+					"id": "titanium_block",
+					"count": 5
+				},
+				{
+					"id": "glass",
+					"count": 10
+				},
+				{
+					"id": "gum_block",
+					"count": 10
+				}
+			]
+		},
+		{
+			"id": "tank_fox",
+			"time": 30.0,
+			"count": 1,
+			"tech": "ac4",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "cobalt_block",
+					"count": 15
+				},
+				{
+					"id": "leather",
+					"count": 200
+				},
+				{
+					"id": "copper_block",
+					"count": 12
+				},
+				{
+					"id": "titanium_block",
+					"count": 8
+				},
+				{
+					"id": "glass",
+					"count": 10
+				},
+				{
+					"id": "gum_block",
+					"count": 10
+				}
+			]
+		},
+		{
+			"id": "tank_crocodile",
+			"time": 30.0,
+			"count": 1,
+			"tech": "ac5",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "cobalt_block",
+					"count": 40
+				},
+				{
+					"id": "leather",
+					"count": 400
+				},
+				{
+					"id": "copper_block",
+					"count": 15
+				},
+				{
+					"id": "titanium_block",
+					"count": 20
+				},
+				{
+					"id": "glass",
+					"count": 50
+				},
+				{
+					"id": "gum_block",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "tank_wolf",
+			"time": 30.0,
+			"count": 1,
+			"tech": "ac6",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "cobalt_block",
+					"count": 60
+				},
+				{
+					"id": "leather",
+					"count": 400
+				},
+				{
+					"id": "copper_block",
+					"count": 15
+				},
+				{
+					"id": "titanium_block",
+					"count": 30
+				},
+				{
+					"id": "glass",
+					"count": 50
+				},
+				{
+					"id": "gum_block",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "tank_rhinoceros",
+			"time": 30.0,
+			"count": 1,
+			"tech": "ac7",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "cobalt_block",
+					"count": 120
+				},
+				{
+					"id": "leather",
+					"count": 400
+				},
+				{
+					"id": "copper_block",
+					"count": 20
+				},
+				{
+					"id": "titanium_block",
+					"count": 40
+				},
+				{
+					"id": "glass",
+					"count": 50
+				},
+				{
+					"id": "gum_block",
+					"count": 30
+				}
+			]
+		},
+		{
+			"id": "tank_bear",
+			"time": 30.0,
+			"count": 1,
+			"tech": "ac8",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "cobalt_block",
+					"count": 200
+				},
+				{
+					"id": "leather",
+					"count": 400
+				},
+				{
+					"id": "copper_block",
+					"count": 20
+				},
+				{
+					"id": "titanium_block",
+					"count": 50
+				},
+				{
+					"id": "glass",
+					"count": 50
+				},
+				{
+					"id": "gum_block",
+					"count": 30
+				}
+			]
+		},
+		{
+			"id": "boat_crucian",
+			"time": 30.0,
+			"count": 1,
+			"tech": "bt3",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 5
+				},
+				{
+					"id": "leather",
+					"count": 200
+				},
+				{
+					"id": "copper_block",
+					"count": 2
+				},
+				{
+					"id": "titanium_block",
+					"count": 2
+				},
+				{
+					"id": "glass",
+					"count": 50
+				},
+				{
+					"id": "gum_block",
+					"count": 10
+				}
+			]
+		},
+		{
+			"id": "boat_pike",
+			"time": 30.0,
+			"count": 1,
+			"tech": "bt4",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 20
+				},
+				{
+					"id": "leather",
+					"count": 400
+				},
+				{
+					"id": "copper_block",
+					"count": 4
+				},
+				{
+					"id": "titanium_block",
+					"count": 4
+				},
+				{
+					"id": "glass",
+					"count": 100
+				},
+				{
+					"id": "gum_block",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "amphibian_camel",
+			"time": 30.0,
+			"count": 1,
+			"tech": "bt5",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "cobalt_block",
+					"count": 10
+				},
+				{
+					"id": "leather",
+					"count": 400
+				},
+				{
+					"id": "copper_block",
+					"count": 4
+				},
+				{
+					"id": "titanium_block",
+					"count": 2
+				},
+				{
+					"id": "glass",
+					"count": 100
+				},
+				{
+					"id": "gum_block",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "amphibian_elephant",
+			"time": 30.0,
+			"count": 1,
+			"tech": "bt6",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "cobalt_block",
+					"count": 30
+				},
+				{
+					"id": "leather",
+					"count": 400
+				},
+				{
+					"id": "copper_block",
+					"count": 6
+				},
+				{
+					"id": "titanium_block",
+					"count": 5
+				},
+				{
+					"id": "glass",
+					"count": 100
+				},
+				{
+					"id": "gum_block",
+					"count": 30
+				}
+			]
+		},
+		{
+			"id": "amphibian_polecat",
+			"time": 30.0,
+			"count": 1,
+			"tech": "bt7",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "cobalt_block",
+					"count": 100
+				},
+				{
+					"id": "leather",
+					"count": 400
+				},
+				{
+					"id": "copper_block",
+					"count": 10
+				},
+				{
+					"id": "titanium_block",
+					"count": 25
+				},
+				{
+					"id": "glass",
+					"count": 100
+				},
+				{
+					"id": "gum_block",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "amphibian_turtle",
+			"time": 30.0,
+			"count": 1,
+			"tech": "bt8",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "cobalt_block",
+					"count": 200
+				},
+				{
+					"id": "leather",
+					"count": 500
+				},
+				{
+					"id": "copper_block",
+					"count": 20
+				},
+				{
+					"id": "titanium_block",
+					"count": 50
+				},
+				{
+					"id": "glass",
+					"count": 200
+				},
+				{
+					"id": "gum_block",
+					"count": 40
+				}
+			]
+		},
+		{
+			"id": "iron_block",
+			"time": 5.0,
+			"count": 1,
+			"workbench": "workbench",
+			"group": "material",
+			"res": [
+				{
+					"id": "iron_bar",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "steel_block",
+			"time": 5.0,
+			"count": 1,
+			"workbench": "workbench",
+			"group": "material",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "copper_block",
+			"time": 5.0,
+			"count": 1,
+			"workbench": "workbench",
+			"group": "material",
+			"res": [
+				{
+					"id": "copper_bar",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "lead_block",
+			"time": 5.0,
+			"count": 1,
+			"workbench": "workbench",
+			"group": "material",
+			"res": [
+				{
+					"id": "lead_bar",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "titanium_block",
+			"time": 5.0,
+			"count": 1,
+			"workbench": "workbench",
+			"group": "material",
+			"res": [
+				{
+					"id": "titanium_bar",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "cobalt_block",
+			"time": 5.0,
+			"count": 1,
+			"workbench": "workbench",
+			"group": "material",
+			"res": [
+				{
+					"id": "cobalt_bar",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "gum_block",
+			"time": 5.0,
+			"count": 1,
+			"workbench": "workbench",
+			"group": "material",
+			"res": [
+				{
+					"id": "gum",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "heavy_machine_gun2",
+			"time": 10.0,
+			"count": 1,
+			"tech": "wc2",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "wood",
+					"count": 100
+				},
+				{
+					"id": "iron_bar",
+					"count": 400
+				},
+				{
+					"id": "steel_bar",
+					"count": 800
+				},
+				{
+					"id": "copper_bar",
+					"count": 200
+				}
+			]
+		},
+		{
+			"id": "light_cannon1",
+			"time": 10.0,
+			"count": 1,
+			"tech": "wc3",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 10
+				},
+				{
+					"id": "iron_block",
+					"count": 5
+				},
+				{
+					"id": "copper_block",
+					"count": 2
+				},
+				{
+					"id": "titanium_block",
+					"count": 1
+				},
+				{
+					"id": "gum",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "light_cannon2",
+			"time": 10.0,
+			"count": 1,
+			"tech": "wc4",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 15
+				},
+				{
+					"id": "iron_block",
+					"count": 5
+				},
+				{
+					"id": "copper_block",
+					"count": 2
+				},
+				{
+					"id": "titanium_block",
+					"count": 2
+				},
+				{
+					"id": "gum",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "medium_cannon1",
+			"time": 10.0,
+			"count": 1,
+			"tech": "wc5",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "titanium_block",
+					"count": 5
+				},
+				{
+					"id": "iron_block",
+					"count": 5
+				},
+				{
+					"id": "copper_block",
+					"count": 2
+				},
+				{
+					"id": "steel_block",
+					"count": 5
+				},
+				{
+					"id": "gum",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "medium_cannon2",
+			"time": 10.0,
+			"count": 1,
+			"tech": "wc6",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "titanium_block",
+					"count": 10
+				},
+				{
+					"id": "iron_block",
+					"count": 5
+				},
+				{
+					"id": "copper_block",
+					"count": 2
+				},
+				{
+					"id": "steel_block",
+					"count": 5
+				},
+				{
+					"id": "gum",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "heavy_cannon1",
+			"time": 10.0,
+			"count": 1,
+			"tech": "wc7",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "cobalt_block",
+					"count": 10
+				},
+				{
+					"id": "iron_block",
+					"count": 5
+				},
+				{
+					"id": "copper_block",
+					"count": 2
+				},
+				{
+					"id": "titanium_block",
+					"count": 5
+				},
+				{
+					"id": "gum",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "heavy_cannon2",
+			"time": 10.0,
+			"count": 1,
+			"tech": "wc8",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "cobalt_block",
+					"count": 20
+				},
+				{
+					"id": "iron_block",
+					"count": 5
+				},
+				{
+					"id": "copper_block",
+					"count": 2
+				},
+				{
+					"id": "titanium_block",
+					"count": 5
+				},
+				{
+					"id": "gum",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "heavy_machine_gun_bullet2",
+			"time": 5.0,
+			"count": 5,
+			"tech": "wc2",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "powder",
+					"count": 40
+				},
+				{
+					"id": "iron_bar",
+					"count": 8
+				}
+			]
+		},
+		{
+			"id": "gun_shell1",
+			"time": 5.0,
+			"count": 1,
+			"tech": "wc3",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "powder",
+					"count": 10
+				},
+				{
+					"id": "steel_bar",
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": "gun_shell2",
+			"time": 5.0,
+			"count": 1,
+			"tech": "wc4",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "powder",
+					"count": 15
+				},
+				{
+					"id": "steel_bar",
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": "gun_shell3",
+			"time": 5.0,
+			"count": 1,
+			"tech": "wc5",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "powder",
+					"count": 20
+				},
+				{
+					"id": "titanium_bar",
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": "gun_shell4",
+			"time": 5.0,
+			"count": 1,
+			"tech": "wc6",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "powder",
+					"count": 30
+				},
+				{
+					"id": "titanium_bar",
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": "gun_shell5",
+			"time": 5.0,
+			"count": 1,
+			"tech": "wc7",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "powder",
+					"count": 40
+				},
+				{
+					"id": "cobalt_bar",
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": "gun_shell6",
+			"time": 5.0,
+			"count": 1,
+			"tech": "wc8",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "powder",
+					"count": 50
+				},
+				{
+					"id": "cobalt_bar",
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": "ionium",
+			"time": 2.0,
+			"count": 1,
+			"tech": "re7",
+			"workbench": "cyber_workbench",
+			"group": "material",
+			"res": [
+				{
+					"id": "protonite",
+					"count": 1
+				},
+				{
+					"id": "copper_bar",
+					"count": 25
+				}
+			]
+		},
+		{
+			"id": "rocket_engine_i1",
+			"time": 30.0,
+			"count": 1,
+			"tech": "re7",
+			"workbench": "cyber_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "tungsten_bar",
+					"count": 500
+				},
+				{
+					"id": "cobalt_block",
+					"count": 10
+				},
+				{
+					"id": "copper_block",
+					"count": 1
+				},
+				{
+					"id": "lead_block",
+					"count": 5
+				},
+				{
+					"id": "gum_block",
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": "rocket_engine_i2",
+			"time": 30.0,
+			"count": 1,
+			"tech": "re8",
+			"workbench": "cyber_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "tungsten_bar",
+					"count": 1000
+				},
+				{
+					"id": "cobalt_block",
+					"count": 15
+				},
+				{
+					"id": "copper_block",
+					"count": 1
+				},
+				{
+					"id": "lead_block",
+					"count": 5
+				},
+				{
+					"id": "gum_block",
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": "rocket_engine_n1",
+			"time": 30.0,
+			"count": 1,
+			"tech": "re9",
+			"workbench": "cyber_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "omicronium_block",
+					"count": 5
+				},
+				{
+					"id": "tungsten_block",
+					"count": 10
+				},
+				{
+					"id": "copper_block",
+					"count": 1
+				},
+				{
+					"id": "lead_block",
+					"count": 20
+				},
+				{
+					"id": "gum_block",
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": "rocket_engine_n2",
+			"time": 30.0,
+			"count": 1,
+			"tech": "re10",
+			"workbench": "cyber_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "omicronium_block",
+					"count": 10
+				},
+				{
+					"id": "tungsten_block",
+					"count": 15
+				},
+				{
+					"id": "copper_block",
+					"count": 1
+				},
+				{
+					"id": "lead_block",
+					"count": 20
+				},
+				{
+					"id": "gum_block",
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": "rocket_pterodactyl",
+			"time": 30.0,
+			"count": 1,
+			"tech": "r6",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "cobalt_block",
+					"count": 5
+				},
+				{
+					"id": "gum_block",
+					"count": 4
+				},
+				{
+					"id": "copper_block",
+					"count": 5
+				},
+				{
+					"id": "titanium_block",
+					"count": 5
+				},
+				{
+					"id": "glass",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "rocket_carnotaurus",
+			"time": 30.0,
+			"count": 1,
+			"tech": "r7",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "cobalt_block",
+					"count": 10
+				},
+				{
+					"id": "gum_block",
+					"count": 4
+				},
+				{
+					"id": "copper_block",
+					"count": 5
+				},
+				{
+					"id": "titanium_block",
+					"count": 10
+				},
+				{
+					"id": "glass",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "rocket_tyrannosaurus",
+			"time": 30.0,
+			"count": 1,
+			"tech": "r8",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "cobalt_block",
+					"count": 20
+				},
+				{
+					"id": "gum_block",
+					"count": 4
+				},
+				{
+					"id": "copper_block",
+					"count": 5
+				},
+				{
+					"id": "titanium_block",
+					"count": 15
+				},
+				{
+					"id": "glass",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "rocket_stegosaurus",
+			"time": 30.0,
+			"count": 1,
+			"tech": "r9",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "cobalt_block",
+					"count": 40
+				},
+				{
+					"id": "gum_block",
+					"count": 10
+				},
+				{
+					"id": "copper_block",
+					"count": 10
+				},
+				{
+					"id": "titanium_block",
+					"count": 30
+				},
+				{
+					"id": "glass",
+					"count": 500
+				}
+			]
+		},
+		{
+			"id": "rocket_sauropod",
+			"time": 30.0,
+			"count": 1,
+			"tech": "r10",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "cobalt_block",
+					"count": 100
+				},
+				{
+					"id": "gum_block",
+					"count": 20
+				},
+				{
+					"id": "copper_block",
+					"count": 20
+				},
+				{
+					"id": "titanium_block",
+					"count": 50
+				},
+				{
+					"id": "glass",
+					"count": 500
+				}
+			]
+		},
+		{
+			"id": "space_radar_sr2",
+			"time": 30.0,
+			"count": 1,
+			"tech": "s2",
+			"workbench": "cyber_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "titanium_bar",
+					"count": 10
+				},
+				{
+					"id": "copper_bar",
+					"count": 20
+				},
+				{
+					"id": "lead_bar",
+					"count": 5
+				},
+				{
+					"id": "glass",
+					"count": 20
+				},
+				{
+					"id": "protonite",
+					"count": 10
+				}
+			]
+		},
+		{
+			"id": "station_module",
+			"time": 30.0,
+			"count": 1,
+			"tech": "r11",
+			"workbench": "cyber_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 250
+				},
+				{
+					"id": "titanium_block",
+					"count": 20
+				},
+				{
+					"id": "cobalt_block",
+					"count": 10
+				},
+				{
+					"id": "sulfur",
+					"count": 500
+				}
+			]
+		},
+		{
+			"id": "station_control_panel",
+			"time": 20.0,
+			"count": 1,
+			"tech": "r11",
+			"workbench": "cyber_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 100
+				},
+				{
+					"id": "copper_bar",
+					"count": 100
+				},
+				{
+					"id": "lead_bar",
+					"count": 50
+				},
+				{
+					"id": "protonite",
+					"count": 500
+				},
+				{
+					"id": "glass",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "tungsten_block",
+			"time": 5.0,
+			"count": 1,
+			"workbench": "workbench",
+			"group": "material",
+			"res": [
+				{
+					"id": "tungsten_bar",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "omicronium_block",
+			"time": 5.0,
+			"count": 1,
+			"workbench": "workbench",
+			"group": "material",
+			"res": [
+				{
+					"id": "omicronium_bar",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "hyperdrive",
+			"time": 30.0,
+			"count": 1,
+			"tech": "re11",
+			"workbench": "cyber_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "omicronium_block",
+					"count": 20
+				},
+				{
+					"id": "tungsten_block",
+					"count": 30
+				},
+				{
+					"id": "cobalt_block",
+					"count": 20
+				},
+				{
+					"id": "titanium_block",
+					"count": 20
+				},
+				{
+					"id": "copper_block",
+					"count": 25
+				},
+				{
+					"id": "lead_block",
+					"count": 50
+				},
+				{
+					"id": "gum_block",
+					"count": 10
+				}
+			]
+		},
+		{
+			"id": "space_suit3",
+			"time": 20.0,
+			"count": 1,
+			"tech": "o5",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "gum",
+					"count": 100
+				},
+				{
+					"id": "tungsten_bar",
+					"count": 50
+				},
+				{
+					"id": "copper_bar",
+					"count": 10
+				},
+				{
+					"id": "glass",
+					"count": 10
+				},
+				{
+					"id": "sulfur",
+					"count": 50
+				},
+				{
+					"id": "coal_powder",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "space_suit4",
+			"time": 20.0,
+			"count": 1,
+			"tech": "o6",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "gum",
+					"count": 100
+				},
+				{
+					"id": "omicronium_bar",
+					"count": 50
+				},
+				{
+					"id": "copper_bar",
+					"count": 10
+				},
+				{
+					"id": "glass",
+					"count": 10
+				},
+				{
+					"id": "sulfur",
+					"count": 50
+				},
+				{
+					"id": "coal_powder",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "titan_workbench",
+			"time": 10.0,
+			"count": 1,
+			"tech": "e1_2",
+			"workbench": "workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "titanium_bar",
+					"count": 10
+				}
+			]
+		},
+		{
+			"id": "tungsten_workbench",
+			"time": 10.0,
+			"count": 1,
+			"tech": "e1_3",
+			"workbench": "workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "tungsten_bar",
+					"count": 10
+				}
+			]
+		},
+		{
+			"id": "space_gun_boomslang",
+			"time": 10.0,
+			"count": 1,
+			"tech": "ws4",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "tungsten_bar",
+					"count": 200
+				},
+				{
+					"id": "titanium_bar",
+					"count": 400
+				},
+				{
+					"id": "copper_bar",
+					"count": 200
+				},
+				{
+					"id": "gum",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "space_gun_krait",
+			"time": 10.0,
+			"count": 1,
+			"tech": "ws5",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "omicronium_bar",
+					"count": 200
+				},
+				{
+					"id": "titanium_bar",
+					"count": 400
+				},
+				{
+					"id": "copper_bar",
+					"count": 200
+				},
+				{
+					"id": "gum",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "space_gun_shell4",
+			"time": 5.0,
+			"count": 1,
+			"tech": "ws4",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "xinitron",
+					"count": 1
+				},
+				{
+					"id": "cobalt_bar",
+					"count": 2
+				}
+			]
+		},
+		{
+			"id": "space_gun_shell5",
+			"time": 5.0,
+			"count": 1,
+			"tech": "ws5",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "xinitron",
+					"count": 2
+				},
+				{
+					"id": "cobalt_bar",
+					"count": 2
+				},
+				{
+					"id": "tungsten_bar",
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": "hydroponics_unit",
+			"time": 3.0,
+			"count": 1,
+			"tech": "b9",
+			"workbench": "workbench",
+			"group": "build",
+			"res": [
+				{
+					"id": "leaf",
+					"count": 100
+				},
+				{
+					"id": "bone_flour",
+					"count": 100
+				},
+				{
+					"id": "nitrocalite",
+					"count": 10
+				},
+				{
+					"id": "wood",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "paper",
+			"time": 1.0,
+			"count": 1,
+			"workbench": "workbench",
+			"group": "material",
+			"res": [
+				{
+					"id": "wood",
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": "drawing_table",
+			"time": 10.0,
+			"count": 1,
+			"workbench": "workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "wood",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "planetary_scanner",
+			"time": 10.0,
+			"count": 1,
+			"tech": "e7_2",
+			"workbench": "industrial_workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "tungsten_bar",
+					"count": 5
+				},
+				{
+					"id": "copper_bar",
+					"count": 20
+				},
+				{
+					"id": "glass",
+					"count": 20
+				},
+				{
+					"id": "faunitron",
+					"count": 50
+				},
+				{
+					"id": "protonite",
+					"count": 20
+				},
+				{
+					"id": "lead_bar",
+					"count": 10
+				}
+			]
+		},
+		{
+			"id": "refrigerator",
+			"time": 8.0,
+			"count": 1,
+			"tech": "c5",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "tungsten_bar",
+					"count": 100
+				},
+				{
+					"id": "copper_bar",
+					"count": 200
+				},
+				{
+					"id": "faunitron",
+					"count": 500
+				},
+				{
+					"id": "sulfur",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "landscaping_generator",
+			"time": 8.0,
+			"count": 1,
+			"tech": "b10",
+			"workbench": "industrial_workbench",
+			"group": "build",
+			"res": [
+				{
+					"id": "sulfuric_acid",
+					"count": 50
+				},
+				{
+					"id": "bone_flour",
+					"count": 500
+				},
+				{
+					"id": "protonite",
+					"count": 50
+				},
+				{
+					"id": "steel_bar",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "omicronium_pump",
+			"time": 12.0,
+			"count": 1,
+			"tech": "hm4",
+			"workbench": "industrial_workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "omicronium_bar",
+					"count": 5
+				},
+				{
+					"id": "gum",
+					"count": 5
+				},
+				{
+					"id": "copper_bar",
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": "rocket_spinosaurus",
+			"time": 30.0,
+			"count": 1,
+			"tech": "clan1",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "cobalt_block",
+					"count": 50
+				},
+				{
+					"id": "gum_block",
+					"count": 10
+				},
+				{
+					"id": "copper_block",
+					"count": 10
+				},
+				{
+					"id": "titanium_block",
+					"count": 40
+				},
+				{
+					"id": "glass",
+					"count": 500
+				}
+			]
+		},
+		{
+			"id": "robot_rob1",
+			"time": 30.0,
+			"count": 1,
+			"tech": "rob1",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 10
+				},
+				{
+					"id": "copper_block",
+					"count": 5
+				},
+				{
+					"id": "titanium_block",
+					"count": 2
+				},
+				{
+					"id": "gum_block",
+					"count": 2
+				},
+				{
+					"id": "glass",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "robot_rob2",
+			"time": 30.0,
+			"count": 1,
+			"tech": "rob2",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "copper_block",
+					"count": 10
+				},
+				{
+					"id": "titanium_block",
+					"count": 5
+				},
+				{
+					"id": "cobalt_block",
+					"count": 10
+				},
+				{
+					"id": "gum_block",
+					"count": 4
+				},
+				{
+					"id": "glass",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "robot_rob3",
+			"time": 30.0,
+			"count": 1,
+			"tech": "rob3",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "copper_block",
+					"count": 15
+				},
+				{
+					"id": "titanium_block",
+					"count": 10
+				},
+				{
+					"id": "cobalt_block",
+					"count": 20
+				},
+				{
+					"id": "tungsten_block",
+					"count": 5
+				},
+				{
+					"id": "gum_block",
+					"count": 6
+				},
+				{
+					"id": "glass",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "robot_rob4",
+			"time": 30.0,
+			"count": 1,
+			"tech": "rob4",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "copper_block",
+					"count": 20
+				},
+				{
+					"id": "titanium_block",
+					"count": 20
+				},
+				{
+					"id": "cobalt_block",
+					"count": 20
+				},
+				{
+					"id": "tungsten_block",
+					"count": 10
+				},
+				{
+					"id": "gum_block",
+					"count": 8
+				},
+				{
+					"id": "glass",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "processor_p1",
+			"time": 30.0,
+			"count": 1,
+			"tech": "proc1",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "copper_bar",
+					"count": 100
+				},
+				{
+					"id": "tungsten_bar",
+					"count": 50
+				},
+				{
+					"id": "omicronium_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "processor_p2",
+			"time": 30.0,
+			"count": 1,
+			"tech": "proc2",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "copper_bar",
+					"count": 200
+				},
+				{
+					"id": "tungsten_bar",
+					"count": 100
+				},
+				{
+					"id": "omicronium_bar",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "processor_p3",
+			"time": 30.0,
+			"count": 1,
+			"tech": "proc3",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "copper_bar",
+					"count": 200
+				},
+				{
+					"id": "tungsten_bar",
+					"count": 200
+				},
+				{
+					"id": "omicronium_bar",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "prog_module_mining",
+			"time": 30.0,
+			"count": 1,
+			"tech": "progm1",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "copper_bar",
+					"count": 100
+				},
+				{
+					"id": "tungsten_bar",
+					"count": 100
+				},
+				{
+					"id": "omicronium_bar",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "prog_module_refueling",
+			"time": 30.0,
+			"count": 1,
+			"tech": "progm2",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "copper_bar",
+					"count": 100
+				},
+				{
+					"id": "tungsten_bar",
+					"count": 100
+				},
+				{
+					"id": "omicronium_bar",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "prog_module_farm",
+			"time": 30.0,
+			"count": 1,
+			"tech": "progm3",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "copper_bar",
+					"count": 100
+				},
+				{
+					"id": "tungsten_bar",
+					"count": 100
+				},
+				{
+					"id": "omicronium_bar",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "planetary_stabilizer",
+			"time": 8.0,
+			"count": 1,
+			"tech": "b11",
+			"workbench": "cyber_workbench",
+			"group": "build",
+			"res": [
+				{
+					"id": "tungsten_bar",
+					"count": 50
+				},
+				{
+					"id": "poisonous_moss",
+					"count": 100
+				},
+				{
+					"id": "xirium",
+					"count": 200
+				},
+				{
+					"id": "biofuel",
+					"count": 500
+				}
+			]
+		},
+		{
+			"id": "car_kangaroo",
+			"time": 30.0,
+			"count": 1,
+			"tech": "car5",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 5
+				},
+				{
+					"id": "leather",
+					"count": 200
+				},
+				{
+					"id": "copper_bar",
+					"count": 100
+				},
+				{
+					"id": "iron_bar",
+					"count": 100
+				},
+				{
+					"id": "glass",
+					"count": 200
+				},
+				{
+					"id": "gum_block",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "prog_module_transfer",
+			"time": 30.0,
+			"count": 1,
+			"tech": "progm4",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "copper_bar",
+					"count": 100
+				},
+				{
+					"id": "tungsten_bar",
+					"count": 100
+				},
+				{
+					"id": "omicronium_bar",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "prog_module_recycling",
+			"time": 30.0,
+			"count": 1,
+			"tech": "progm5",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "copper_bar",
+					"count": 100
+				},
+				{
+					"id": "tungsten_bar",
+					"count": 100
+				},
+				{
+					"id": "omicronium_bar",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "planet_blocker",
+			"time": 10.0,
+			"count": 1,
+			"tech": "e7_3",
+			"workbench": "cyber_workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "tungsten_bar",
+					"count": 40
+				},
+				{
+					"id": "copper_bar",
+					"count": 40
+				},
+				{
+					"id": "glass",
+					"count": 40
+				},
+				{
+					"id": "protonite",
+					"count": 40
+				},
+				{
+					"id": "lead_bar",
+					"count": 40
+				}
+			]
+		},
+		{
+			"id": "recycling_workbench",
+			"time": 20.0,
+			"count": 1,
+			"tech": "e9",
+			"workbench": "cyber_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "cobalt_bar",
+					"count": 200
+				},
+				{
+					"id": "tungsten_bar",
+					"count": 50
+				},
+				{
+					"id": "copper_bar",
+					"count": 100
+				},
+				{
+					"id": "steel_bar",
+					"count": 200
+				},
+				{
+					"id": "gum",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "robot_control_panel",
+			"time": 10.0,
+			"count": 1,
+			"tech": "rcp",
+			"workbench": "cyber_workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "tungsten_bar",
+					"count": 10
+				},
+				{
+					"id": "copper_bar",
+					"count": 50
+				},
+				{
+					"id": "glass",
+					"count": 20
+				},
+				{
+					"id": "faunitron",
+					"count": 50
+				},
+				{
+					"id": "protonite",
+					"count": 20
+				},
+				{
+					"id": "lead_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "whip",
+			"time": 10.0,
+			"count": 1,
+			"tech": "hm5",
+			"workbench": "industrial_workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "leather",
+					"count": 50
+				},
+				{
+					"id": "tungsten_bar",
+					"count": 10
+				}
+			]
+		},
+		{
+			"id": "feeder",
+			"time": 8.0,
+			"count": 1,
+			"tech": "c6",
+			"workbench": "workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "wood",
+					"count": 100
+				},
+				{
+					"id": "steel_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "feeder_refrigerator",
+			"time": 8.0,
+			"count": 1,
+			"tech": "c7",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "tungsten_bar",
+					"count": 100
+				},
+				{
+					"id": "copper_bar",
+					"count": 200
+				},
+				{
+					"id": "faunitron",
+					"count": 400
+				},
+				{
+					"id": "sulfur",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "industrial_mixer",
+			"time": 8.0,
+			"count": 1,
+			"tech": "e10",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "tungsten_bar",
+					"count": 200
+				},
+				{
+					"id": "copper_bar",
+					"count": 200
+				},
+				{
+					"id": "processor_p1",
+					"count": 1
+				},
+				{
+					"id": "gum",
+					"count": 200
+				},
+				{
+					"id": "thaumin",
+					"count": 400
+				}
+			]
+		},
+		{
+			"id": "prog_module_collector",
+			"time": 30.0,
+			"count": 1,
+			"tech": "progm6",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "copper_bar",
+					"count": 100
+				},
+				{
+					"id": "tungsten_bar",
+					"count": 100
+				},
+				{
+					"id": "omicronium_bar",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "prog_module_robot_refuel",
+			"time": 30.0,
+			"count": 1,
+			"tech": "progm7",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "copper_bar",
+					"count": 100
+				},
+				{
+					"id": "tungsten_bar",
+					"count": 100
+				},
+				{
+					"id": "omicronium_bar",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "car_engine_cet",
+			"time": 30.0,
+			"count": 1,
+			"tech": "cet",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "tungsten_block",
+					"count": 5
+				},
+				{
+					"id": "copper_block",
+					"count": 10
+				},
+				{
+					"id": "lead_block",
+					"count": 5
+				},
+				{
+					"id": "gum_block",
+					"count": 10
+				},
+				{
+					"id": "titanium_block",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "car_engine_ceb",
+			"time": 30.0,
+			"count": 1,
+			"tech": "ceb",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "omicronium_block",
+					"count": 2
+				},
+				{
+					"id": "tungsten_block",
+					"count": 10
+				},
+				{
+					"id": "copper_block",
+					"count": 10
+				},
+				{
+					"id": "lead_block",
+					"count": 10
+				},
+				{
+					"id": "gum_block",
+					"count": 10
+				},
+				{
+					"id": "titanium_block",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "collector_container",
+			"time": 8.0,
+			"count": 1,
+			"tech": "e11",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "omicronium_block",
+					"count": 2
+				},
+				{
+					"id": "tungsten_block",
+					"count": 5
+				},
+				{
+					"id": "copper_block",
+					"count": 5
+				},
+				{
+					"id": "gum_block",
+					"count": 4
+				},
+				{
+					"id": "thaumin",
+					"count": 500
+				}
+			]
+		},
+		{
+			"id": "collider",
+			"time": 8.0,
+			"count": 1,
+			"tech": "cl1",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "omicronium_block",
+					"count": 100
+				},
+				{
+					"id": "electronium_bar",
+					"count": 1000
+				},
+				{
+					"id": "gum_block",
+					"count": 100
+				},
+				{
+					"id": "steel_block",
+					"count": 200
+				},
+				{
+					"id": "copper_block",
+					"count": 100
+				},
+				{
+					"id": "protonite",
+					"count": 1000
+				}
+			]
+		},
+		{
+			"id": "collider_block",
+			"time": 8.0,
+			"count": 1,
+			"tech": "cl1",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "omicronium_block",
+					"count": 25
+				},
+				{
+					"id": "iridium_bar",
+					"count": 100
+				},
+				{
+					"id": "gum_block",
+					"count": 20
+				},
+				{
+					"id": "glass",
+					"count": 100
+				},
+				{
+					"id": "copper_block",
+					"count": 20
+				},
+				{
+					"id": "protonite",
+					"count": 500
+				}
+			]
+		},
+		{
+			"id": "quantum_workbench",
+			"time": 20.0,
+			"count": 1,
+			"tech": "e12",
+			"workbench": "cyber_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "electronium_bar",
+					"count": 500
+				},
+				{
+					"id": "iridium_bar",
+					"count": 500
+				},
+				{
+					"id": "vulcanite",
+					"count": 250
+				},
+				{
+					"id": "copper_bar",
+					"count": 100
+				},
+				{
+					"id": "gum",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "iridium_drill",
+			"time": 5.0,
+			"count": 1,
+			"tech": "p8",
+			"workbench": "cyber_workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "titanium_bar",
+					"count": 5
+				},
+				{
+					"id": "iridium_bar",
+					"count": 20
+				},
+				{
+					"id": "copper_bar",
+					"count": 10
+				},
+				{
+					"id": "lead_bar",
+					"count": 2
+				},
+				{
+					"id": "sulfur",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "epsilon_drill",
+			"time": 5.0,
+			"count": 1,
+			"tech": "p9",
+			"workbench": "cyber_workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "titanium_bar",
+					"count": 5
+				},
+				{
+					"id": "epsilon_metal_bar",
+					"count": 20
+				},
+				{
+					"id": "copper_bar",
+					"count": 10
+				},
+				{
+					"id": "lead_bar",
+					"count": 2
+				},
+				{
+					"id": "sulfur",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "quantum_drill",
+			"time": 5.0,
+			"count": 1,
+			"tech": "p10",
+			"workbench": "cyber_workbench",
+			"group": "tool",
+			"res": [
+				{
+					"id": "antimatter",
+					"count": 1
+				},
+				{
+					"id": "titanium_bar",
+					"count": 5
+				},
+				{
+					"id": "electronium_bar",
+					"count": 10
+				},
+				{
+					"id": "copper_bar",
+					"count": 10
+				},
+				{
+					"id": "lead_bar",
+					"count": 2
+				},
+				{
+					"id": "sulfur",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "processor_p4",
+			"time": 30.0,
+			"count": 1,
+			"tech": "proc4",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "omicronium_bar",
+					"count": 100
+				},
+				{
+					"id": "tungsten_bar",
+					"count": 200
+				},
+				{
+					"id": "electronium_bar",
+					"count": 100
+				}
+			]
+		},
+		{
+			"id": "processor_p5",
+			"time": 30.0,
+			"count": 1,
+			"tech": "proc5",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "omicronium_bar",
+					"count": 200
+				},
+				{
+					"id": "tungsten_bar",
+					"count": 400
+				},
+				{
+					"id": "electronium_bar",
+					"count": 200
+				}
+			]
+		},
+		{
+			"id": "iridium_cutter",
+			"time": 8.0,
+			"count": 1,
+			"tech": "w9",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "titanium_bar",
+					"count": 10
+				},
+				{
+					"id": "iridium_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "epsilon_cutter",
+			"time": 8.0,
+			"count": 1,
+			"tech": "w10",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "titanium_bar",
+					"count": 10
+				},
+				{
+					"id": "epsilon_metal_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "quantum_cutter",
+			"time": 8.0,
+			"count": 1,
+			"tech": "w11",
+			"workbench": "cyber_workbench",
+			"group": "weapon",
+			"res": [
+				{
+					"id": "titanium_bar",
+					"count": 10
+				},
+				{
+					"id": "electronium_bar",
+					"count": 20
+				},
+				{
+					"id": "antimatter",
+					"count": 1
+				}
+			]
+		},
+		{
+			"id": "wall_titan",
+			"time": 6.0,
+			"count": 1,
+			"tech": "b6_1",
+			"workbench": "industrial_workbench",
+			"group": "build",
+			"res": [
+				{
+					"id": "titanium_bar",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "door_titan",
+			"time": 6.0,
+			"count": 1,
+			"tech": "b6_1",
+			"workbench": "industrial_workbench",
+			"group": "build",
+			"res": [
+				{
+					"id": "titanium_bar",
+					"count": 8
+				}
+			]
+		},
+		{
+			"id": "floor_titan",
+			"time": 3.0,
+			"count": 1,
+			"tech": "b6_1",
+			"workbench": "industrial_workbench",
+			"group": "build",
+			"res": [
+				{
+					"id": "titanium_bar",
+					"count": 4
+				}
+			]
+		},
+		{
+			"id": "rocket_engine_quantum",
+			"time": 30.0,
+			"count": 1,
+			"tech": "re12",
+			"workbench": "cyber_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "omicronium_block",
+					"count": 50
+				},
+				{
+					"id": "iridium_bar",
+					"count": 200
+				},
+				{
+					"id": "copper_block",
+					"count": 5
+				},
+				{
+					"id": "lead_block",
+					"count": 100
+				},
+				{
+					"id": "gum_block",
+					"count": 5
+				},
+				{
+					"id": "electronium_bar",
+					"count": 200
+				}
+			]
+		},
+		{
+			"id": "rocket_diplodocus",
+			"time": 30.0,
+			"count": 1,
+			"tech": "r12",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "cobalt_block",
+					"count": 200
+				},
+				{
+					"id": "gum_block",
+					"count": 40
+				},
+				{
+					"id": "copper_block",
+					"count": 40
+				},
+				{
+					"id": "titanium_block",
+					"count": 100
+				},
+				{
+					"id": "glass",
+					"count": 500
+				}
+			]
+		},
+		{
+			"id": "iridium_armor",
+			"time": 15.0,
+			"count": 1,
+			"tech": "a8",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "iridium_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "epsilon_armor",
+			"time": 15.0,
+			"count": 1,
+			"tech": "a9",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "epsilon_metal_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "omicronium_furnace",
+			"time": 10.0,
+			"count": 1,
+			"tech": "e6_6",
+			"workbench": "cyber_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "omicronium_bar",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "omicronium_crusher",
+			"time": 10.0,
+			"count": 1,
+			"tech": "e6_7",
+			"workbench": "cyber_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "omicronium_bar",
+					"count": 50
+				},
+				{
+					"id": "copper_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "omicronium_extractor",
+			"time": 10.0,
+			"count": 1,
+			"tech": "e6_8",
+			"workbench": "cyber_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "omicronium_bar",
+					"count": 50
+				},
+				{
+					"id": "copper_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "omicronium_distiller",
+			"time": 10.0,
+			"count": 1,
+			"tech": "e6_9",
+			"workbench": "cyber_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "omicronium_bar",
+					"count": 50
+				},
+				{
+					"id": "gum",
+					"count": 50
+				},
+				{
+					"id": "copper_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "omicronium_press",
+			"time": 10.0,
+			"count": 1,
+			"tech": "e6_10",
+			"workbench": "cyber_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "omicronium_bar",
+					"count": 50
+				},
+				{
+					"id": "copper_bar",
+					"count": 20
+				},
+				{
+					"id": "steel_bar",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "quantum_hyperdrive",
+			"time": 30.0,
+			"count": 1,
+			"tech": "re13",
+			"workbench": "cyber_workbench",
+			"group": "equipment",
+			"res": [
+				{
+					"id": "omicronium_block",
+					"count": 50
+				},
+				{
+					"id": "tungsten_block",
+					"count": 50
+				},
+				{
+					"id": "electronium_bar",
+					"count": 1000
+				},
+				{
+					"id": "epsilon_metal_bar",
+					"count": 1000
+				},
+				{
+					"id": "copper_block",
+					"count": 50
+				},
+				{
+					"id": "lead_block",
+					"count": 200
+				},
+				{
+					"id": "gum_block",
+					"count": 20
+				}
+			]
+		},
+		{
+			"id": "extra_hydroponics",
+			"time": 3.0,
+			"count": 1,
+			"tech": "b12",
+			"workbench": "industrial_workbench",
+			"group": "build",
+			"res": [
+				{
+					"id": "leaf",
+					"count": 200
+				},
+				{
+					"id": "bone_flour",
+					"count": 200
+				},
+				{
+					"id": "vulcanite",
+					"count": 10
+				},
+				{
+					"id": "wood",
+					"count": 5
+				}
+			]
+		},
+		{
+			"id": "rescue_capsule",
+			"time": 20.0,
+			"count": 1,
+			"tech": "r0",
+			"workbench": "industrial_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "steel_bar",
+					"count": 50
+				},
+				{
+					"id": "gum",
+					"count": 10
+				},
+				{
+					"id": "copper_bar",
+					"count": 20
+				},
+				{
+					"id": "glass",
+					"count": 10
+				},
+				{
+					"id": "coal_powder",
+					"count": 50
+				},
+				{
+					"id": "powder",
+					"count": 50
+				}
+			]
+		},
+		{
+			"id": "portal",
+			"time": 20.0,
+			"count": 1,
+			"tech": "cl2",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "steel_block",
+					"count": 1500
+				},
+				{
+					"id": "antimatter",
+					"count": 100
+				},
+				{
+					"id": "electronium_bar",
+					"count": 500
+				},
+				{
+					"id": "epsilon_metal_bar",
+					"count": 500
+				}
+			]
+		},
+		{
+			"id": "box_annihilator",
+			"time": 8.0,
+			"count": 1,
+			"tech": "e13",
+			"workbench": "cyber_workbench",
+			"group": "other",
+			"res": [
+				{
+					"id": "omicronium_block",
+					"count": 1
+				},
+				{
+					"id": "antimatter",
+					"count": 1
+				},
+				{
+					"id": "copper_block",
+					"count": 5
+				},
+				{
+					"id": "gum_block",
+					"count": 10
+				},
+				{
+					"id": "cosmochlor",
+					"count": 50
+				}
+			]
+		}
+	]
+}
